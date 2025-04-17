@@ -1,0 +1,3 @@
+[submodule "rubicon-microbenchmarks"]
+	path = rubicon-microbenchmarks
+	url = https://github.com/rubicon-artifacts/rubicon-microbenchmarks.git
