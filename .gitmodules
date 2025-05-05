@@ -7,3 +7,6 @@
 [submodule "rubicon-blacksmith"]
 	path = rubicon-blacksmith
 	url = https://github.com/rubicon-artifacts/rubicon-blacksmith.git
+[submodule "rubicon-mechanisms"]
+	path = rubicon-mechanisms
+	url = https://github.com/rubicon-artifacts/rubicon-mechanisms.git
