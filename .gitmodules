@@ -1,3 +1,9 @@
 [submodule "rubicon-microbenchmarks"]
 	path = rubicon-microbenchmarks
 	url = https://github.com/rubicon-artifacts/rubicon-microbenchmarks.git
+[submodule "rubicon-retbleed"]
+	path = rubicon-retbleed
+	url = https://github.com/rubicon-artifacts/rubicon-retbleed.git
+[submodule "rubicon-blacksmith"]
+	path = rubicon-blacksmith
+	url = https://github.com/rubicon-artifacts/rubicon-blacksmith.git
